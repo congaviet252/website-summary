@@ -11,7 +11,7 @@ Một kịch bản Tampermonkey mạnh mẽ, biến trình duyệt của bạn t
 Trải nghiệm một giao diện đọc hoàn toàn mới, được thiết kế để tối ưu hóa sự tập trung và khả năng tiếp thu thông tin.
 
 *Giao diện chính khi tóm tắt một bài viết về lập trình:*
-![Giao diện xem trước] (https://i.ibb.co/dJ6WsLTF/image.png))
+(https://i.ibb.co/dJ6WsLTF/image.png))
 ---
 
 ## ✨ Tính năng Nổi bật
