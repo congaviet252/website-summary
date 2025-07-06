@@ -1,8 +1,5 @@
 # Trợ lý Tóm Tắt Web (Gemini) - Giao diện Bảng
 
-[![Version](https://img.shields.io/badge/version-2.5-blue.svg)](https://github.com/YOUR_USERNAME/YOUR_REPO)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Platform](https://img.shields.io/badge/platform-Tampermonkey-lightgrey.svg)](https://www.tampermonkey.net/)
 [![Powered by](https://img.shields.io/badge/Powered%20by-Gemini%20API-blueviolet)](https://ai.google.dev/)
 
 Một kịch bản Tampermonkey mạnh mẽ, biến trình duyệt của bạn thành một công cụ phân tích thông minh. Nhấn **`Alt + Q`** để tóm tắt bất kỳ trang web nào và nhận lại kết quả dưới dạng một bảng phân tích hiện đại, rõ ràng, giúp bạn nắm bắt thông tin nhanh chóng và hiệu quả hơn bao giờ hết.
@@ -14,7 +11,7 @@ Một kịch bản Tampermonkey mạnh mẽ, biến trình duyệt của bạn t
 Trải nghiệm một giao diện đọc hoàn toàn mới, được thiết kế để tối ưu hóa sự tập trung và khả năng tiếp thu thông tin.
 
 *Giao diện chính khi tóm tắt một bài viết về lập trình:*
-![Giao diện xem trước](https://i.imgur.com/gH8oA13.png)
+![Giao diện xem trước]([https://i.imgur.com/gH8oA13.png](https://i.ibb.co/dJ6WsLTF/image.png))
 
 ---
 
