@@ -12,7 +12,7 @@ Trải nghiệm một giao diện đọc hoàn toàn mới, được thiết k�
 
 *Giao diện chính khi tóm tắt một bài viết về lập trình:*
 ![Giao diện xem trước]([https://i.imgur.com/gH8oA13.png](https://i.ibb.co/dJ6WsLTF/image.png))
-
+<a href="https://ibb.co/Kz70cLPd"><img src="https://i.ibb.co/Kz70cLPd/image.png" alt="image" border="0"></a>
 ---
 
 ## ✨ Tính năng Nổi bật
